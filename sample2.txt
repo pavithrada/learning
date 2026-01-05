@@ -1,2 +1,6 @@
 Hola,This is sample another sample text file.
+<<<<<<< HEAD
 Thanks in US english.
+=======
+Thanks in UK english.
+>>>>>>> feature
